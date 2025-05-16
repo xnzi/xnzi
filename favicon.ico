@@ -1,0 +1,11 @@
+hvmd-presale/
+  public/
+    index.html
+    favicon.ico (optional)
+  src/
+    App.js
+    index.js
+    index.css
+    PresaleApp.jsx
+  package.json
+  ...
